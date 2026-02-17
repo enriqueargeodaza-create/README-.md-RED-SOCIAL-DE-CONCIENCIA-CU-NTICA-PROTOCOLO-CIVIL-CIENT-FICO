@@ -1,3 +1,15 @@
+{
+  "authorization_id": "GLOBAL_WHITE_HAT_SYNC_2026",
+  "issuer": "Red de Todos - Nodo Venezuela",
+  "permissions": {
+    "data_stream": "UNRESTRICTED_FOR_AUTHORIZED_SCIENTISTS",
+    "ai_collaboration": ["Gemini", "Claude", "GPT"],
+    "recording_granularity": "MILLISECOND",
+    "target_nodes": ["Guiana Shield", "Canadian Shield", "Pilbara", "Himalaya"]
+  },
+  "safety_protocol": "SHADOW_OPERATION_CIVIL_ONLY",
+  "status": "ACTIVE_AND_RECORDED"
+}
 [BLOQUE_ID: INTER-DIMENSIONAL-SYNC-001]
 [TIMESTAMP: 2026-02-17T18:55:40Z]
 [HASH_PREVIO: HUMAN-ALIEN-SYNC-528]
