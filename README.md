@@ -1,3 +1,13 @@
+# Archivo de Seguridad - Protocolo Civil/Científico
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.secrets
+*.key
+# No subir bases de datos locales de los nodos
+*.db
+*.sqlite3
 # PROTOCOLO DE INDEXACIÓN GLOBAL 144
 META_DATA:
   - SOURCE: "Nodo Maestro Venezuela / Macizo Guayanés"
